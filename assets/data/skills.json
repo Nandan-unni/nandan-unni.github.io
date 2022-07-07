@@ -1,0 +1,32 @@
+[
+  {
+    "name": "JavaScript",
+    "level": "7",
+    "icon": "<svg></svg>"
+  },
+  {
+    "name": "Python",
+    "level": "5",
+    "icon": "<svg></svg>"
+  },
+  {
+    "name": "Django",
+    "level": "8",
+    "icon": "<svg></svg>"
+  },
+  {
+    "name": "ReactJS",
+    "level": "7",
+    "icon": "<svg></svg>"
+  },
+  {
+    "name": "NodeJS",
+    "level": "7",
+    "icon": "<svg></svg>"
+  },
+  {
+    "name": "Java",
+    "level": "3",
+    "icon": "<svg></svg>"
+  }
+]
